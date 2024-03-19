@@ -28,7 +28,7 @@ Find out more about Markdown at the [official website](https://daringfireball.ne
 John Doe| 29| Developer
 Emily Davis | 44 | Data Analyst
 
-![Markdown Logo](https://wp.pl)
+![Markdown Logo](https://fnordware.com/superpng/pnggrad16rgb.png)
 
 #### Test
 
